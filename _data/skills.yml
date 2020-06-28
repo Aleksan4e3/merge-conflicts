@@ -1,19 +1,21 @@
 # Skills
 
 # Technical
-- skill: C#
-- skill: ASP.NET
-- skill: JavaScript
-- skill: HTML
-- skill: CSS
-- skill: MSSQL
-- skill: EntityFramework
-- skill: OOP
+- skill: Technical
+- description: C#
+- description: ASP.NET
+- description: JavaScript
+- description: HTML
+- description: CSS
+- description: MSSQL
+- description: EntityFramework
+- description: OOP
 
 # Personal
-- skill: Asking questions
-- skill: Organization
-- skill: Punctuality
-- skill: Constructive criticism
-- skill: Attention to detail
-- skill: Patience
+- skill: Personal
+- description: Asking questions
+- description: Organization
+- description: Punctuality
+- description: Constructive criticism
+- description: Attention to detail
+- description: Patience
