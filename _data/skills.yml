@@ -1,9 +1,19 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+# Technical
+- skill: C#
+- skill: ASP.NET
+- skill: JavaScript
+- skill: HTML
+- skill: CSS
+- skill: MSSQL
+- skill: EntityFramework
+- skill: OOP
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Personal
+- skill: Asking questions
+- skill: Organization
+- skill: Punctuality
+- skill: Constructive criticism
+- skill: Attention to detail
+- skill: Patience
